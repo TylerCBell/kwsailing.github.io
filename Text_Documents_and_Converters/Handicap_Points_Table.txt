@@ -1,0 +1,1673 @@
+4.45,Centerboard,4.45,97.20
+360,Centerboard,360,102.00
+14 (Int.),Centerboard,14,85.30
+29er,Centerboard,29,84.50
+405 (Int.),Centerboard,405,89.90
+420 (Int. or Club),Centerboard,420,97.60
+470 (Int.),Centerboard,470,86.30
+49er (Int.),Centerboard,49,68.20
+505 (Int.),Centerboard,505,79.80
+747 Cat Rig (SA=75),Centerboard,747,97.60
+747 Sloop (SA=116),Centerboard,747SL,96.90
+A Scow,Centerboard,A-SC,61.30
+Akroyd,Centerboard,AKR,99.30
+Albacore (15'),Centerboard,ALBA,90.30
+Alpha,Centerboard,ALPH,110.40
+Alpha One,Centerboard,ALPHO,89.50
+Alpha Pro,Centerboard,ALPRO,97.30
+American 14.6,Centerboard,AM-146,96.10
+American 16,Centerboard,AM-16,103.60
+American 17,Centerboard,AM-17,105.5
+American 18,Centerboard,AM-18,102.0
+Apache,Centerboard,APC,113.80
+Apollo C/B (15'9"),Centerboard,APOL,92.40
+Aqua Finn,Centerboard,AQFN,106.30
+Arrow 15,Centerboard,ARO15,96.70
+B14,Centerboard,B14,81.00
+Balboa 13,Centerboard,BLB13,91.4
+Bandit (Canadian),Centerboard,BNDT,98.20
+Bandit 15,Centerboard,BND15,97.90
+Bandit 17,Centerboard,BND17,97.00
+Banshee,Centerboard,BNSH,93.70
+Barnegat 17,Centerboard,BG-17,100.30
+Barnegat Bay Sneakbox,Centerboard,B16F,110.60
+Barracuda,Centerboard,BAR,102.00
+Bat Mk 2,Centerboard,BAT-2,107.00
+Bay Hustler,Centerboard,BHSL,95.0
+BBC Scow (12' Custom),Centerboard,BBC-SC,104.40
+BBC Sloop,Centerboard,BBC-SL,111.60
+Beetle Cat (12'4" Cat Rig),Centerboard,BEE-C,120.60
+Blivit 13,Centerboard,BLV13,96.0
+Blue Bird,Centerboard,BB,121.9
+Blue Buoy (14'),Centerboard,BLBY,102.50
+Blue Crab,Centerboard,BLCRB,110.80
+Blue Jay,Centerboard,BJ,108.60
+Bombardier 3.8,Centerboard,BOM3.8,104.0
+Bombardier 4.8,Centerboard,BOM4.8,94.90
+Bonito,Centerboard,BNTO,122.30
+Boss w/spi,Centerboard,BOS,74.50
+Buccaneer 18' spi (SWN18),Centerboard,BCN,86.90
+Butterfly,Centerboard,BUT,108.30
+Buzz,Centerboard,BUZ,80.50
+Byte,Centerboard,BYTE,97.40
+Byte CII,Centerboard,BYTE2,91.40
+C Scow,Centerboard,C-SC,79.10
+C-Lark,Centerboard,C-LK,96.70
+Cadet (Int.),Centerboard,CADT,80.0
+Canoe (Int.),Centerboard,I-CAN,79.10
+Canoe 4 Mtr,Centerboard,4-CAN,121.00
+Canoe 4 Mtr (ACA Cl.),Centerboard,4-CAN2,118.40
+Canoe 5 Mtr,Centerboard,5-CAN,110.60
+Canoe Ranger,Centerboard,RNG-C,115.0
+Canoe Sailing (Grum.),Centerboard,SACAN,144.0
+Cape Dory 10,Centerboard,CD-10,135.20
+Cape Dory 14,Centerboard,CD-14,125.40
+Caprice,Centerboard,CPR,102.40
+Catalina 13 (Capri),Centerboard,CAT13,92.10
+Catalina 14.2 (Capri),Centerboard,CAT142,99.40
+Catalina 14.2 Keel (Capri,Centerboard,CAT142K,100.50
+Catalina 16.5 (Capri) no spi,Centerboard,CAT165,96.30
+Catalina 8,Centerboard,CAT8,130.00
+Catalina Expo 12.5,Centerboard,CAT125,102.00
+Celebrity w/Genoa,Centerboard,CEL,90.20
+Challenger 15,Centerboard,CHL15,91.70
+Channel Sloop,Centerboard,CNLSL,92.10
+Chatauqua 12,Centerboard,CQ-12,110.40
+Checkmate,Centerboard,CHMTE,106.00
+Chesapeake,Centerboard,CHES,90.00
+Cheyenne,Centerboard,CHY,83.90
+CL 14,Centerboard,CL14,101.20
+CL 16,Centerboard,CL16,95.70
+Club Junior,Centerboard,CFJ,102.50
+Code 40,Centerboard,COD40,93.50
+Comet,Centerboard,CM,91.70
+Contender (Int.),Centerboard,CND,90.10
+Copperhead,Centerboard,COHD,100.50
+Coronado 15,Centerboard,COR15,91.90
+Corsair Ten,Centerboard,CSR10,97.5
+Cortez 14,Centerboard,CTZ14,98.0
+Cottontail,Centerboard,COTL,104.00
+Cyclone 13,Centerboard,CLN13,101.00
+Cyclone 13 (SA=74),Centerboard,CLN132,96.90
+D Scow,Centerboard,D-SC,82.70
+Dabchick,Centerboard,DABCK,122.50
+Dagger,Centerboard,DGER,94.90
+Day Sailer (O'Day 17),Centerboard,DS,98.50
+Defender (O'Day),Centerboard,DFD,99.50
+Demon,Centerboard,DM,95.40
+Designers Choice w/spi,Centerboard,DC,103.60
+Dingue (Brazil),Centerboard,DNG,95.0
+Discoverer 18,Centerboard,DCV18,101.00
+Dolphin 17,Centerboard,DLP17,97.50
+Dolphin Jr,Centerboard,DLPJR,116.90
+Dolphin Sr,Centerboard,DLPSR,105.50
+Doodle,Centerboard,DOODL,120.00
+Dovekie,Centerboard,DOVKE,110.10
+Dover Dory 16,Centerboard,DOD16,105.10
+Dragoner (Chrysler),Centerboard,DRGNR,97.0
+DS-16,Centerboard,DS-16,117.10
+Duster,Centerboard,DUS,98.20
+Dutchcraft,Centerboard,DUT,101.80
+Dyer Delta,Centerboard,DD,87.00
+Dyer Dink DT (10') Rhodes,Centerboard,DDT10,110.00
+E Scow,Centerboard,E-SC,72.60
+Eighteen Skiff,Centerboard,18,65.90
+El Toro,Centerboard,ELTO,126.60
+Enterprise (Int.),Centerboard,ENT,92.60
+Europe Dinghy (Int.),Centerboard,EUR,92.80
+Evans 16,Centerboard,EVN16,98.40
+Exocet II (Aus.),Centerboard,EXT,75.70
+Explorer 15,Centerboard,EXP,108.00
+Expresswind,Centerboard,EXSWN,91.5
+Falcon 14,Centerboard,FAL14,105.30
+Feather,Centerboard,FETH,110.0
+Finn (Int.),Centerboard,FN,90.10
+Fireball (Int.),Centerboard,FB,85.60
+Firefly,Centerboard,FFLY,99.60
+FJ (Int.),Centerboard,FJ,97.90
+Flipper,Centerboard,FLIP,99.40
+Flipper (Canadian),Centerboard,FLCA,97.00
+Flying Cloud,Centerboard,FLCL,133.00
+Flying Dutchman (Int.),Centerboard,FD,80.10
+Flying Fish,Centerboard,FFSH,99.40
+Flying Scot (19'),Centerboard,FSCT,89.60
+Flying Tern,Centerboard,FT,108.60
+Force 5,Centerboard,F5,95.40
+Ford 20 (Day Sailer),Centerboard,FRD20,100.70
+Formula S,Centerboard,FORMS,98.60
+Frontrunner,Centerboard,FRUN,87.00
+Fusion 15,Centerboard,FUS15,90.70
+Galilee 15,Centerboard,GAL15,99.4
+Gannet,Centerboard,GN,99.20
+Geary 18,Centerboard,GRY18,92.20
+Gemini 16',Centerboard,GEM,99.10
+Genesis 4.4,Centerboard,GEN4.4,95.40
+Ghost 13 (SA=105),Centerboard,GHO13,104.60
+Glen-L 13',Centerboard,GNL13,102.30
+Glen-L 15',Centerboard,GNL15,99.00
+Glorius,Centerboard,GLOR,109.50
+Gloucester Dory 26'9",Centerboard,GLOD,99.60
+Goldfish,Centerboard,GF,109.00
+GP14,Centerboard,GP14,100.90
+Grampian 17,Centerboard,GRP17,95.90
+Gryphon,Centerboard,GRYN,94.40
+Gulf Coast 15,Centerboard,GFC15,98.00
+Gull,Centerboard,GUL,119.50
+Hampton One Design,Centerboard,HA,91.90
+Harpoon 4.6,Centerboard,HPN4.6,102.00
+Harpoon 5.2,Centerboard,HPN5.2,96.00
+Hartley 14,Centerboard,HRT14,97.30
+Hawk 17,Centerboard,HAW17,108.00
+Herman 15,Centerboard,HRM15,116.00
+Heron,Centerboard,HERN,120.0
+Highlander,Centerboard,HI,84.30
+Hobie 10,Centerboard,H10,112.80
+Holder 12 (H1-12),Centerboard,HLR12,105.50
+Holder 14 (H1-14),Centerboard,HLR14,111.00
+Holder 17 DS,Centerboard,HLR172,103.0
+Holder Hawk (H1-9),Centerboard,HLRHK,120.50
+Holiday 19,Centerboard,HLD19,103.20
+Holiday Jr,Centerboard,HLDJR,111.10
+Hunter 140 (JY14),Centerboard,HTR140,99.0
+Hunter 170 no spi,Centerboard,HTR170,92.70
+Hurricane C/B,Centerboard,HURI,100.0
+Illusion 12 (12'),Centerboard,ILU12,116.4
+Inland 20 Scow,Centerboard,I20-SC,83.40
+Inland Cat,Centerboard,INCT,106.40
+Inland Sloop,Centerboard,INSL,120.00
+Interdane 404,Centerboard,INTD,103.00
+Interlake,Centerboard,INT,89.10
+Invitation,Centerboard,INVT,99.40
+Islands 15,Centerboard,ISD15,99.20
+Islands 17,Centerboard,ISD17,98.40
+J Sailer (Johnson 16'),Centerboard,J-SC,93.50
+Javelin,Centerboard,JAV,111.30
+Javelin (Australian),Centerboard,JAV-2,100.50
+Jester 12,Centerboard,JES12,115.00
+Jester 16,Centerboard,JES16,102.20
+Jester 8,Centerboard,JES8,125.60
+Jet 14,Centerboard,JT14,97.20
+Jetwind,Centerboard,JTWN,109.20
+Johnson 18 spi,Centerboard,JHN18,86.40
+Jollyboat,Centerboard,JB,86.80
+JY 15,Centerboard,JY15,91.90
+JY Xcite Trainer 9'11",Centerboard,JY-T,135.00
+Kelpie 15,Centerboard,KLP15,125.0
+Kenn 11,Centerboard,KN11,111.10
+Kestrel,Centerboard,KL,91.60
+Kite,Centerboard,KITE,100.90
+Knockabout 18 (Cape Cod),Centerboard,KNOC,95.00
+Kolibri,Centerboard,KOLI,122.10
+Koralle 15,Centerboard,KRL15,112.00
+Koralle Jr,Centerboard,KRL12,120.30
+Korsar,Centerboard,KO,87.00
+La Cometa,Centerboard,LACO,114.0
+Lark (13'4"),Centerboard,LRK,93.60
+Lark 10,Centerboard,LRK10,125.40
+Larson Regatta (16'),Centerboard,LAR16,102.80
+Laser (Int.),Centerboard,LASE,91.10
+Laser 13,Centerboard,LAS13,90.60
+Laser 2000,Centerboard,LAS2000,92.50
+Laser 3000,Centerboard,LAS3000,83.30
+Laser 4.7 (Int.),Centerboard,LAS4.7,95.40
+Laser 4000,Centerboard,LAS4000,80.70
+Laser 5000,Centerboard,LAS5000,77.90
+Laser II (Int. w/Trap & Spi),Centerboard,LASE2,92.80
+Laser Pico Uno,Centerboard,LASPCU,104.60
+Laser Radial/Laser M,Centerboard,LASEM,96.70
+Laser Stratos no trap,Centerboard,LASST,87.30
+Laser Vortex,Centerboard,LASVT,86.80
+Lazy E,Centerboard,LZE,91.70
+Lido 14,Centerboard,LD14,98.90
+Lightning (Int.),Centerboard,LI,87.00
+Lone Star 13,Centerboard,LS13,109.50
+Lone Star 16 (SA=145),Centerboard,LS16,116.10
+Lone Star 16 (SA=165),Centerboard,LS162,110.60
+Luger 16 Leeward,Centerboard,LGR16L,112.30
+M Scow (M-16 Scow),Centerboard,M-SC,89.30
+M-20 Scow,Centerboard,M-20,83.50
+Mac Dinghy,Centerboard,MACD,121.20
+Mach II,Centerboard,MACH,110.00
+Malard,Centerboard,MLD12,104.50
+Man O'War,Centerboard,MWR,99.40
+Manta,Centerboard,MAN,103.0
+Marauder,Centerboard,MDR,103.0
+Mariner 17,Centerboard,MAR17,105.00
+Marlin 14,Centerboard,MRL14,103.30
+Martin 14,Centerboard,MTN14,100.0
+Martin 16,Centerboard,MTN16,99.0
+Max,Centerboard,MAX,110.50
+Mayflower,Centerboard,MAY,123.60
+MC Scow,Centerboard,MC-SC,87.80
+Megabyte,Centerboard,MBYT,90.80
+Melges 17 Scow spi,Centerboard,M-17,79.0
+Melonseed Skiff,Centerboard,MSED,110.0
+Merlin Rocket,Centerboard,MLNR,87.10
+Merrimac,Centerboard,MERI,108.90
+Meteor,Centerboard,MET,116.00
+Microtoner (Brazil),Centerboard,MTON,88.00
+Millimeter (12'6),Centerboard,MM-12,114.90
+Mini-Scow (Johnson),Centerboard,MN-SC,110.0
+Minifish (Alcort),Centerboard,MFSH,113.40
+Minifish Mk II,Centerboard,MFSH-2,103.0
+Mirror 16,Centerboard,MRR16,95.80
+Mirror Dinghy (10'10"),Centerboard,MRRDY,113.10
+Missile,Centerboard,MI,98.10
+Mistral 16 (Sloop),Centerboard,MST16,94.80
+Mistral 16 Slp w/Trap,Centerboard,MST16T,94.00
+Mistral 4.04,Centerboard,MST4.0,102.00
+Mobjack,Centerboard,MJ,91.30
+Monk,Centerboard,MONK,100.0
+Montgomery 10,Centerboard,MON10,133.0
+Montgomery 12,Centerboard,MON12,110.0
+Montgomery 15,Centerboard,MON15,108.20
+Montgomery 7-11,Centerboard,MON8,134.0
+Moth,Centerboard,MO,107.10
+Mustang 17,Centerboard,MUS17,102.90
+Musto Skiff,Centerboard,MUST,80.0
+Mutineer 15' (SWN15),Centerboard,MUTR,96.00
+MX Ray,Centerboard,MXRAY,90.50
+Narrasketuck,Centerboard,NRS,89.70
+National 10,Centerboard,N-10,123.50
+National 12,Centerboard,N-12,98.00
+National One Design,Centerboard,N1D,96.30
+Neptune 14,Centerboard,NEP14,107.40
+Neptune 16,Centerboard,NEP16,106.0
+Newport 16,Centerboard,NPT16,103.50
+Nipper,Centerboard,NIP,112.90
+Nomad spi (Vanguard),Centerboard,NMD17,93.50
+Nutshell 7'7",Centerboard,NUT8,138.2
+Nutshell 9'6",Centerboard,NUT10,121.6
+O'Day 12,Centerboard,ODY12,117.30
+O'Day 15,Centerboard,ODY15,95.80
+OK Dinghy (Int.),Centerboard,OK,96.50
+Olympic Monotype(O-Jolle,Centerboard,OJOL,93.10
+Omega (14'),Centerboard,OMG,110.60
+One-Design 14 (Gr.Prix),Centerboard,OD14G,86.80
+One-Design 14 (Std.Rig),Centerboard,OD14,88.30
+Optimist Pram (Int.),Centerboard,OP,123.60
+Ospray (O'Day),Centerboard,OSPRA,105.70
+Osprey Mk 1&2,Centerboard,OS-1,85.00
+Osprey Mk 2&3,Centerboard,OS-3,84.80
+Overnighter (Tanzer),Centerboard,OVN16,102.50
+Paceship 17,Centerboard,PSC17,107.40
+Pelican (San Fran.),Centerboard,PELI,131.20
+Penguin,Centerboard,PG,111.50
+Petrel,Centerboard,PET,115.60
+Phantom (Lateen Rig),Centerboard,PHNTM,103.50
+Pintail,Centerboard,PINT,105.00
+Pirateer,Centerboard,PIRAT,102.90
+PiXel 13'9",Centerboard,PIX,96.4
+Point Jude,Centerboard,PTJ15,105.0
+Porpoise 12,Centerboard,PRP12,114.60
+Precision 14,Centerboard,PRS14,103.50
+Precision 15,Centerboard,PRS15,96.60
+Precision 16,Centerboard,PRS16,100.10
+Precision 18.5 no spi,Centerboard,PRS185,90.20
+Puffer,Centerboard,PUF,110.40
+R18 (Erre 18) (Italy),Centerboard,R18,94.30
+Raider 16,Centerboard,RDR16,91.40
+Ranger 11,Centerboard,RNG11,120.0
+Ranger 12,Centerboard,RNG12,113.0
+Ranger 16,Centerboard,RNG16,111.20
+Ranger 9,Centerboard,RNG9,122.90
+Rascal,Centerboard,RSCL,108.90
+Raven,Centerboard,RA,83.00
+Rebel,Centerboard,REB,96.90
+Redhead,Centerboard,RED,99.60
+Renegade,Centerboard,REN,109.00
+Rhodes Bantam,Centerboard,RB,97.40
+Rinky Dink,Centerboard,RINKY,112.0
+Roadrunner,Centerboard,ROAD,95.30
+Robin,Centerboard,RBN,124.90
+Ross 13,Centerboard,ROS13,104.1
+RS 200 Slp spi,Centerboard,RS200,88.30
+RS 400 Slp spi,Centerboard,RS400,82.30
+RS 600,Centerboard,RS600,76.20
+RS 700 spi,Centerboard,RS700,73.30
+RS 800 Slp spi,Centerboard,RS800,77.00
+RS Feva,Centerboard,RSFEV,105.20
+RS Vareo spi,Centerboard,RSVAR,92.70
+S-12,Centerboard,S-12,121.60
+Sabot Naples,Centerboard,SBT-N,136.40
+Sabot U.S.,Centerboard,SBT,119.60
+Sailbird,Centerboard,SLB,97.30
+Sailfish,Centerboard,SAF,118.40
+Sailstar,Centerboard,SLS,111.50
+San Clemente 16,Centerboard,SCT16,120.00
+Sandpiper 100 (Sloop),Centerboard,SDP100,112.0
+Sandpiper 15 (Marshall),Centerboard,SNDPR,112.70
+Satellite,Centerboard,SATL,101.00
+Schwill 16,Centerboard,SCH16,99.70
+Scorpion,Centerboard,SCOR,112.10
+Sea Pearl 21 (Cat Ketch),Centerboard,SPL21K,96.60
+Sea Snark (Snark),Centerboard,SNAR,129.10
+Sea Witch (Sunchaser II),Centerboard,SWCH,112.20
+Seabird,Centerboard,SBD,117.10
+Sesame,Centerboard,SESA,114.50
+Shellback,Centerboard,SHB,110.0
+Sidewinder (Sloop),Centerboard,SWND,98.90
+Siren (17'2"),Centerboard,SRN17,114.10
+Sirocco 15,Centerboard,SRC15,97.20
+Skate 7.5' Beam (Can.),Centerboard,SKAT2,93.40
+Skidley,Centerboard,SKID,91.30
+Skipjack,Centerboard,SJ,93.10
+Skylark,Centerboard,SL,116.40
+Snipe (Int.),Centerboard,SN,91.90
+Solar Sailer 13' Expo,Centerboard,SOS13,122.70
+Solo,Centerboard,SOLO,94.00
+Spanker (Brazil),Centerboard,SPKR,97.0
+Sparkler,Centerboard,SPKL,132.20
+Speedball,Centerboard,SPDBL,95.20
+Spindrift 13'4",Centerboard,SPN13,104.50
+Spindrift 15,Centerboard,SPN15,100.50
+Spindrift 16,Centerboard,SPN16,101.00
+Spree,Centerboard,SPR,93.00
+Sprite,Centerboard,SP,116.00
+SR 17,Centerboard,SR-17,83.10
+Starcraft,Centerboard,STC,117.60
+Stardancer 14,Centerboard,STD14,110.30
+Starfire,Centerboard,STF,113.3
+Starfish,Centerboard,STFS,103.40
+Starwind 13.5,Centerboard,SWN135,98.5
+Stealth cat rig A.spi,Centerboard,STH,88.0
+Streaker,Centerboard,STRK,97.70
+Suicide (Develop.Class),Centerboard,SUI,80.70
+Sun Cat (Cat Rig),Centerboard,SUNC,102.80
+Sunbird,Centerboard,SBRD,114.00
+Sunfish (Int.),Centerboard,SF,99.60
+Sunflower,Centerboard,SUNF,131.70
+Sunspot,Centerboard,SUNSP,123.0
+Super Porpoise 14,Centerboard,SPOR,107.40
+Super Satellite,Centerboard,SSAT,99.00
+Super Snark 2 (SSII),Centerboard,SSNAR2,120.80
+Super Sunfish,Centerboard,SSF,100.70
+Super Swift (O'Day),Centerboard,SSFT,124.50
+Supernova,Centerboard,SNV,89.70
+Surfglas,Centerboard,SURGL,98.50
+Surfwind,Centerboard,SURF,107.70
+Surprise,Centerboard,SURP,99.80
+Sweet 16,Centerboard,SWSX,96.20
+Tanzer 14,Centerboard,TNZ14,111.40
+Tanzer 16 w/Gen,Centerboard,TNZ16,97.10
+Tasar,Centerboard,TASA,88.20
+Tasar M,Centerboard,TASAM,88.40
+Teal,Centerboard,TEAL,99.20
+Tech Dinghy,Centerboard,TD,111.20
+Tern,Centerboard,TERN,124.10
+The Ten,Centerboard,TEN,114.70
+The Twelve,Centerboard,TWLV,96.40
+Thistle,Centerboard,TH,83.00
+Thunderbird C/B,Centerboard,TBD,93.0
+Topper,Centerboard,TOP,110.40
+Tornado C/B,Centerboard,TOCB,90.90
+Town Class,Centerboard,TWN,97.30
+Transfusion 547,Centerboard,TRF547,94.30
+Trapeze,Centerboard,TRA,86.90
+Tridente (Italy),Centerboard,TRD,97.80
+UFO,Centerboard,UFO,96.0
+United States Monotype,Centerboard,USMO,98.50
+Upstart,Centerboard,UP,100.50
+US-1,Centerboard,US-1,91.50
+Vagabond 17 (and HLR17),Centerboard,VAG17,100.0
+Vanguard 15,Centerboard,VGD15,90.50
+Vector,Centerboard,VECT,101.90
+Viper,Centerboard,VIP,94.50
+Volant,Centerboard,VOL,81.50
+Voyager 15,Centerboard,VOY15,103.0
+Walker Bay 8,Centerboard,WB-8,123.5
+Wanderer Sloop 14' spi,Centerboard,WAN14,96.00
+Wayfarer,Centerboard,WF,91.60
+Wee Punkin,Centerboard,WPN,132.8
+Weesort,Centerboard,WS,124.70
+West Wight Potter 15,Centerboard,WWP15,138.10
+West Wight Potter 19,Centerboard,WWP19,105.0
+Westlake 14,Centerboard,WL14,105.60
+Whip,Centerboard,WHIP,93.20
+Whirlwind,Centerboard,WHWN,115.00
+Whitecap 18' (L-N),Centerboard,WHCAP,100.50
+Widgeon,Centerboard,WDG,122.60
+Wildflower,Centerboard,WILF,123.20
+Windflight,Centerboard,WINF,108.30
+Windjammer,Centerboard,WINJ,110.10
+Windmill,Centerboard,WM,89.50
+Wineglass,Centerboard,WINE,91.5
+Wing Dinghy,Centerboard,WD,92.00
+Wizz 14,Centerboard,WIZ,92.40
+Woodpussy,Centerboard,WP,103.00
+X-14 (Italy),Centerboard,X-14,95.1
+X-Boat,Centerboard,X-B,97.70
+Y-Boat,Centerboard,Y-B,91.00
+Y-Flyer,Centerboard,YF,86.70
+Zef 12,Centerboard,ZEF12,117.20
+Zenith,Centerboard,ZEN,91.40
+Zuma,Centerboard,ZUM,103.20
+110 (Int.),Keelboat,110,89.30
+210 (Int.),Keelboat,210,87.30
+5.5 Meter,Keelboat,5.5M,82.60
+6 Meter,Keelboat,6M,80.60
+8 Meter,Keelboat,8M,74.40
+9 Meter,Keelboat,9M,90.00
+America 17,Keelboat,AMR17,99.10
+BB 11 (20'),Keelboat,BB11,110.0
+Bongo Sloop spi 1-up,Keelboat,BGO15,91.80
+Bull's Eye (Cape Cod),Keelboat,BUL,116.20
+Clipper 20,Keelboat,CLP20,93.00
+Columbia 21,Keelboat,COL21,95.00
+Corinthian,Keelboat,CRT,105.10
+Doughdish (Herreshoff),Keelboat,DDSH,116.30
+Dragon (Int.),Keelboat,DRG,89.50
+Ensign,Keelboat,EN,95.70
+Etchells (Int.),Keelboat,ECH22,78.60
+Fish,Keelboat,FISH,97.10
+Flying Fifteen (Int.),Keelboat,FLY15,90.00
+Fox (Sloop Rig),Keelboat,FOX,87.60
+H-12 1/2 (Herreshoff),Keelboat,H-12,110.90
+H-Boat 27',Keelboat,H-B,72.3
+Herreshoff S Class w/spi,Keelboat,HSF-S,86.30
+Hogden,Keelboat,HOG,96.0
+Ideal 18 (85% Jib Spi),Keelboat,IDE18,95.10
+International One Des.,Keelboat,IOD,84.20
+Luders 16 (26'4"),Keelboat,LDR16,90.40
+Luders 21,Keelboat,LDR21,95.80
+Mercury 18,Keelboat,MER18,103.80
+Mercury Cape Cod CB,Keelboat,MER15B,107.0
+Mercury Cape Cod KB,Keelboat,MER15,105.0
+Nordica 16,Keelboat,NORD,113.50
+Rainbow,Keelboat,RAIN,95.40
+Rhodes 18 (CB Ver.),Keelboat,RDS18B,102.00
+Rhodes 19,Keelboat,RDS19,96.90
+Rhodes 19 (CB Ver.),Keelboat,RDS19B,95.80
+Rhodes 33,Keelboat,RDS33,84.60
+Shields Class,Keelboat,SHL,84.90
+Soling (Int. Class Jib),Keelboat,SO,82.30
+Sonar (155G),Keelboat,SNR23,79.30
+Sonar (Class Jib),Keelboat,SNR23OD,81.00
+Star (Int.),Keelboat,ST,83.10
+Tempest (Int.),Keelboat,TMP,83.40
+Victory 21 250# Bulb Keel,Keelboat,w/SpiVIC21L,93.20
+Victory 21 w/Gen No Spi,Keelboat,VIC21,98.30
+Westphal One Design,Keelboat,WOD,85.70
+Yngling,Keelboat,YNG,93.40
+Zephyr,Keelboat,ZPY20,99.00
+18m2 (Cat.1 Open),Multihull,18SM-1,64.20
+18m2 (Cat.2 incl 11' N5.5),Multihull,18SM-2,67.20
+A Class Cat,Multihull,A-C,64.50
+A Class Cat >200# all-up,Multihull,A-C2,70.50
+A-Lion (A Class),Multihull,A-L,75.00
+Alpha Cat 15,Multihull,ALP15,79.00
+Alpha Cat 18,Multihull,ALP18,72.00
+Antrim 30+ Tri,Multihull,ATM30,64.50
+Aqua Cat 12 (SA=78),Multihull,AQC12,110.00
+Aqua Cat 12 (SA=90),Multihull,AQC122,100.50
+Aqua Cat 14,Multihull,AQC14,100.50
+Aqua Cat 18,Multihull,AQC18,92.00
+ARC 17 spi,Multihull,ARC17,70.00
+ARC 21 ODR spi,Multihull,ARC21,61.80
+ARC 22 ODR spi (SC22),Multihull,ARC22,57.00
+Australis (A Class),Multihull,AUS,75.00
+B-Lion,Multihull,B-L,73.00
+Barracuda,Multihull,BARCU,75.00
+Beneteau Blue II (34'),Multihull,BNT34C,88.0
+Bohannon Cat custom,Multihull,BC-X,88.80
+Brown 26 Tri,Multihull,BRO26,71.5
+Buccaneer 33 Tri,Multihull,BCN33,72.30
+Buccaneer 35 Tri,Multihull,BCN35,76.70
+C Class (Custom),Multihull,C-CX,72.50
+C Class (Wing Mast),Multihull,C-C2,57.70
+C Class Cat (Slp 2-up),Multihull,C-C,61.50
+C Class Cat (Soft Uni),Multihull,C-CU,60.5
+C Class w/Reacher,Multihull,C-C,R
+Cal Cat,Multihull,CAL,93.00
+Catfish,Multihull,CF,97.00
+Cathouse 20,Multihull,CTH20,63.10
+Catnip A-Class,Multihull,CN,74.10
+CFR20 Uni w/spi,Multihull,CFR20,57.90
+Cheeta Cat Mk 2,Multihull,CH-2,70.00
+Cheshire (1-up),Multihull,CHSR,80.00
+Coaster 26,Multihull,CST26,58.0
+Concept 41,Multihull,CCP41,61.50
+Condor,Multihull,CNDR,78.00
+Condor 30 Tri,Multihull,CDR30,64.0
+Condor 40 Tri,Multihull,CDR40,61.20
+Condor 40 Tri T.M.,Multihull,CDR40H,56.90
+Cougar Mk III,Multihull,CU-3,77.40
+Coyote 17,Multihull,COY17,78.80
+Cross 46R,Multihull,CSS46R,63.20
+Crowther 38,Multihull,CRW38,59.5
+D Class,Multihull,D-C,53.70
+Dakota 33 Mod.,Multihull,DAK33,63.5
+Dart 18 Slp 2-up,Multihull,D18,76.30
+Dart 18 Uni 1-up,Multihull,D18U,78.70
+Dart 20 Slp 2-up,Multihull,D20,72.50
+Dart TSX,Multihull,DTSX,71.50
+Dingo,Multihull,DINGO,81.10
+Dragonfly 1200,Multihull,DRA1200,75.0
+Dragonfly 15 Outrigger,Multihull,DRA15,82.80
+Dragonfly 25 spi,Multihull,DRA25,S
+Dragonfly 25 Tri,Multihull,DRA25,76.10
+Dragonfly 26 Std,Multihull,DRA26,79.80
+Dragonfly 800 Sw. Wing Tri,Multihull,DRA800,71.80
+Dragonfly 920,Multihull,DRA920,68.2
+Dudash,Multihull,DUDSH,76.5
+Dunlap,Multihull,DUNLP,74.50
+Eagle 20 Tri,Multihull,EGL20,91.00
+Escape Playcat 2-up,Multihull,ESCP,84.8
+Escape Velanza 16'7",Multihull,ESC17,85.0
+Express 6.0 spi,Multihull,EXS6.0,58.60
+F-24 Tri Mk I All Sails,Multihull,F-24,76.10
+F-24 Tri Mk II All Sails,Multihull,F-242,74.30
+F-25C Tri Cbn All Sails,Multihull,F-25C,61.90
+F-27 Formula All Sails,Multihull,F-27F,69.40
+F-27 Tri All Sails,Multihull,F-27,70.50
+F-28 Tri Stock M&J,Multihull,F-28,67.10
+F-28R Tri All Sails,Multihull,F-28R,65.00
+F-31 Tri Stock M&J,Multihull,F-31,65.40
+F-31R Tri All Sails,Multihull,F-31R,61.90
+F-33R,Multihull,F-33R,60.90
+F-750 Sprint (24' ) All Sails,Multihull,F-750,67.60
+Firebird 26,Multihull,FBD26,61.10
+Formula 16 spi,Multihull,F16,63.00
+Formula 18 Slp spi,Multihull,F18,62.40
+Formula 18HT Uni spi 2up,Multihull,F18HT,60.00
+Formula 20 Slp spi 2-up,Multihull,F20,59.30
+Formula 40,Multihull,F40,54.50
+Formula 500,Multihull,F500,55.00
+Freestyle 474,Multihull,FS474,78.30
+Fulmar 19 Tri,Multihull,FLM19,75.80
+G-Cat 5.0m,Multihull,G5.0,76.10
+G-Cat 5.0Turbo1up rchr,Multihull,G5.0-3,72.20
+G-Cat 5.7m,Multihull,G5.7,73.20
+G-Cat 6.1,Multihull,G6.1,65.0
+G-Force 18,Multihull,GF-18,65.0
+G-Force 21,Multihull,GF-21,63.50
+G-Force 21/W1000 w/spi,Multihull,GF-1000,61.0
+Gemini 3000,Multihull,GEM30,82.90
+Gemini 3200,Multihull,GEM32,80.0
+Gemini 33.6,Multihull,GEM33,70.0
+Gemini 3400,Multihull,GEM34,84.0
+Gougeon 32,Multihull,GGN32,67.70
+Gulfstream 35,Multihull,GSM35,53.50
+Hardcore 16,Multihull,HDC16,74.50
+Hobie 12,Multihull,H12,102.50
+Hobie 14,Multihull,H14,86.40
+Hobie 14 Turbo 1-up,Multihull,H142,83.10
+Hobie 16,Multihull,H16,76.00
+Hobie 16 Trapseat,Multihull,H16TS,78.0
+Hobie 17 (1-up),Multihull,H17,74.00
+Hobie 17 Sport Slp 2-up,Multihull,H17P,74.50
+Hobie 18 & 18 Magnum,Multihull,H18,71.40
+Hobie 18 Formula,Multihull,H18F,71.20
+Hobie 20 Miracle,Multihull,H20,65.00
+Hobie 21 no spi,Multihull,H21,67.00
+Hobie 21 Sport Cruiser,Multihull,H21P,74.50
+Hobie Bravo (12'),Multihull,HBRV,100.0
+Hobie Dragoon 2-3crew nspi,Multihull,HDRG,83.0
+Hobie Fox spi,Multihull,HFOX,60.40
+Hobie FXOne jib n/s,Multihull,HFX1T,70.1
+Hobie FXOne spi 1-up,Multihull,HFX1,S
+Hobie Getaway,Multihull,HGET,83.30
+Hobie SX-18 spi,Multihull,H18SX,71.30
+Hobie Tiger ODR spi,Multihull,HTIG,62.10
+Hobie Trifoiler,Multihull,HTRIF,75.0
+Hobie Wave,Multihull,HWAV,92.10
+Hughes 35,Multihull,HUG35,79.30
+Hurricane 5.9,Multihull,HUR5.9,67.40
+Hurricane 500,Multihull,HUR500,76.5
+Hydrosail 21,Multihull,HYD21,83.50
+Iroquois 31.6,Multihull,IRQ316,80.0
+Isotope Slp 1-up,Multihull,ISTP,74.30
+Isotope Slp 2-up 250#Crew,Multihull,minISTP2,77.20
+Jump Ahead Cat,Multihull,JMPAH,100.00
+Kantola 38,Multihull,KNT38,65.5
+Loka (A Class),Multihull,LOKA,76.20
+Lynx Cat (14'),Multihull,LNXC,90.50
+MacGregor 36,Multihull,MCG36,69.10
+Maine Cat 22,Multihull,MNE22,75.0
+Malibu Outrigger,Multihull,MAOT,79.0
+Marstrom 20 carbon spi,Multihull,M20,58.00
+Musketeer,Multihull,MUSKT,77.50
+Mystere 4.3 Slp1-2up spi,Multihull,M4.3,S
+Mystere 4.3 Uni 1-up n/s,Multihull,M4.3U,83.00
+Mystere 5.0 1-Trap,Multihull,M5.0,75.60
+Mystere 5.0 XL 2-up,Multihull,M5.0XL,75.60
+Mystere 5.5 Slp,Multihull,M5.5,66.20
+Mystere 5.5 XL 1-up,Multihull,M5.5XL,64.2
+Mystere 6.0,Multihull,M6.0,63.90
+Mystere 6.0XL & w/wing,Multihull,M6.0XL,64.20
+Mystere S,Multihull,MS,75.60
+Nacra 17 Uni no spi,Multihull,N17,73.20
+Nacra 18 Slp spi (NI18),Multihull,N18,64.60
+Nacra 20 Slp spi,Multihull,N20,59.30
+Nacra 4.5 Slp 2-up,Multihull,N4.5,79.80
+Nacra 4.5 Uni 1-up,Multihull,N4.5U,79.50
+Nacra 450 Turbo 1-up,Multihull,N450T,76.60
+Nacra 5.0 Slp 2-up,Multihull,N5.0,77.00
+Nacra 5.2 Slp 2-up,Multihull,N5.2,72.10
+Nacra 5.5 Slp 8.5',Multihull,N5.5,67.00
+Nacra 5.5 Uni 8.5',Multihull,N5.5U,69.70
+Nacra 5.7 2-up,Multihull,N5.7,72.60
+Nacra 5.8 No.Amer. 2-up,Multihull,N5.8NA,66.50
+Nacra 5.8 Orig. 2-up,Multihull,N5.8,66.60
+Nacra 500 Slp 2-up,Multihull,N500,76.40
+Nacra 570 2-up,Multihull,N570,70.50
+Nacra 6.0 350sf spi,Multihull,N6.0NE,60.40
+Nacra 6.0 No.Amer. 2-up,Multihull,N6.0NA,62.60
+Nacra 6.0 Orig. 2-up,Multihull,N6.0,64.20
+Nacra F17 Uni spi,Multihull,NF17,66.70
+Newick Native 38 Tri,Multihull,NEWNT,55.5
+Osborn 42,Multihull,OSB42,53.00
+P-Cat 2/18,Multihull,PC218,74.00
+P-Cat 3/18,Multihull,PC318,76.00
+Pacific Cat,Multihull,PC,73.70
+Paper Tiger,Multihull,PTIG,81.00
+PDQ Cat 32,Multihull,PDQ32,72.5
+Phoenix,Multihull,PH,77.80
+Piver Tri 17 (Textri),Multihull,PIV17,95.0
+Pixel 23 Outrigger spi,Multihull,PIX23,82.00
+Poison Oak,Multihull,POK16,69.20
+Prindle 15,Multihull,P15,76.20
+Prindle 16,Multihull,P16,77.50
+Prindle 18,Multihull,P18,74.80
+Prindle 18-2,Multihull,P182,69.10
+Prindle 19,Multihull,P19,66.40
+Prindle 19MX no spi,Multihull,P19MX,64.40
+Prindle 20,Multihull,P20,64.5
+Privilege 42,Multihull,PVL42,78.0
+Raider 30,Multihull,RDR30,61.9
+RC-27 All Sails,Multihull,RC-27/41,56.0
+RC-27 All Sails M.Hd spi,Multihull,RC-27/44,56.50
+RC-30 All Sails,Multihull,RC-30/45,53.10
+RC-30 All Sails (MugRig),Multihull,RC-30/41,55.6
+Reynolds 21,Multihull,REY21,81.50
+Reynolds 33,Multihull,REY33,60.10
+Scamp,Multihull,SCAMP,110.0
+Sea Spray 15 (Mod Can.),Multihull,SPY15X,75.00
+Sea Spray 15 (Sea Moth),Multihull,SPY15,77.90
+Sea Spray 18,Multihull,SPY18,79.5
+Seaside 22,Multihull,SSD22,83.5
+Seawind 24,Multihull,SWD24,81.70
+Shark,Multihull,SK,73.00
+Shearwater Mk IV,Multihull,SW-4,77.50
+Shockwave 37,Multihull,SWV37,68.80
+Sizzler (SA=150),Multihull,SZZL,83.00
+SL 16 Slp spi,Multihull,SL16,73.0
+Sol Cat 15,Multihull,SOL15,79.90
+Sol Cat 18,Multihull,SOL18,74.90
+Sol Cat 20,Multihull,SOL20,70.00
+Stampede,Multihull,STMP,68.50
+Stiletto 23 3-up,Multihull,STL23,66.30
+Stiletto 27,Multihull,STL27,74.80
+Stiletto 27 All Sails,Multihull,STL27R,64.70
+Stiletto 30,Multihull,STL30,67.30
+SuperCat 15 Sloop,Multihull,SC152,77.00
+SuperCat 15 Uni,Multihull,SC15,78.00
+SuperCat 17,Multihull,SC17,73.90
+SuperCat 19,Multihull,SC19,69.00
+SuperCat 19X & 19XL,Multihull,SC19X,66.50
+SuperCat 20 33' mast n/s,Multihull,SC20,65.00
+SuperCat 20 TallRig n/s,Multihull,SC20H,63.80
+T-Gull 23,Multihull,TGL23,79.50
+Tahoe 18 Tri,Multihull,THO18X,75.00
+Taipan 4.9 Slp no spi,Multihull,T4.9,68.20
+Taipan 4.9 Uni 1up no sp,Multihull,T4.9U,69.50
+Taipan 5.7 Sloop w/spi,Multihull,T5.7,60.70
+Thai Mk 4,Multihull,THAI-4,75.00
+Tiger Cat,Multihull,TIGC,79.00
+Topcat (1-up,Multihull,TOPC,88.00
+TopCat K3,Multihull,TOPC3,75.00
+Tornado (Int.) 2-trap spi,Multihull,TORN,59.00
+Tornado 1-trap no spi,Multihull,TORN2,63.90
+Trac 14,Multihull,TRC14,84.50
+Trac 16,Multihull,TRC16,76.30
+Trac 18,Multihull,TRC18,67.50
+TrailerTri 680,Multihull,TRL680,89.0
+TrailerTri 720,Multihull,TRL720,79.5
+Tramp,Multihull,TRMP,90.20
+Tremolino Tri,Multihull,TRMLO,83.90
+Unicorn (A Class),Multihull,UC-A,75.20
+Ventilo 20 Slp 32' spi,Multihull,VTL20,59.30
+Venture Cat (Sloop),Multihull,VNT,97.60
+Wilson 16 Outrigger,Multihull,WLS16,85.00
+Wilson 20 Tri,Multihull,WLS20,93.80
+WindRider 17 Tri,Multihull,WR17,81.40
+11 Meter,Offshore,11M,67.70
+Abbott 33,Offshore,ABB33,76.40
+Adhara 30,Offshore,ADH30,69.40
+Aerodyne 38,Offshore,AER38,61.60
+Aerodyne 43,Offshore,AER43,57.00
+Alberg 22,Offshore,ALB22,100.50
+Alberg 30,Offshore,ALB30,91.40
+Alberg 35,Offshore,ALB35,90.00
+Alberg 37,Offshore,ALB37,81.20
+Albin Express,Offshore,ALNEX,88.00
+Alden 43,Offshore,ALD43,90.10
+Alerion Express 20,Offshore,ALX20,93.70
+Alerion Express 28 ODR,Offshore,ALX28,84.50
+Allied 34 Seabreeze,Offshore,ALI34,90.0
+Aloha 8.2,Offshore,ALO8.2,91.5
+Alubat Ovni 36,Offshore,AOV36,82.00
+American 26,Offshore,AM-26,102.5
+American Pride,Offshore,AMPRD,76.50
+Americat 22,Offshore,AMC22,98.30
+AMF 2100,Offshore,AMF21,95.40
+Andrews 26,Offshore,AND26,78.10
+Andrews 30,Offshore,AND30,73.60
+Andrews 38,Offshore,AND38,67.20
+Annapolis 25,Offshore,ANP25,104.30
+Anteres 41,Offshore,ANS41,67.60
+Antrim 27,Offshore,ATM27,69.60
+Aphrodite Int. 101,Offshore,APH101,76.20
+Aquarius 21,Offshore,AQU21,111.80
+Aquarius 23,Offshore,AQU23,104.00
+Ariel 26,Offshore,ARL26,97.70
+Arpege 30,Offshore,ARP30,88.00
+Avalon 25,Offshore,AVL25,97.60
+B-25,Offshore,B-25,76.30
+B-32,Offshore,B-32,66.70
+Balboa 20,Offshore,BLB20,104.10
+Balboa 22,Offshore,BLB22,104.60
+Balboa 23,Offshore,BLB23,101.60
+Balboa 24,Offshore,BLB24,99.10
+Balboa 26,Offshore,BLB26,93.70
+Balboa 26 (Swing Keel),Offshore,BLB26W,93.60
+Balboa 27 & 8.2,Offshore,BLB27,95.60
+Baltic 42,Offshore,BLT42,69.30
+Baltic 43,Offshore,BLT43,65.80
+Bavaria 27,Offshore,BAV27,92.60
+Bayfield 25,Offshore,BFL25,98.70
+Bayfield 30/32,Offshore,BFL32,93.5
+BB 10m,Offshore,BB10,74.50
+Beneteau 210 (110% Gen spi),Offshore,BNT210,94.50
+Beneteau 235 (DK/WK),Offshore,BNT235,89.60
+Beneteau 25,Offshore,BNT25,76.00
+Beneteau 26,Offshore,BNT26,87.40
+Beneteau 26.5,Offshore,BNT265,86.40
+Beneteau 28.5 (DK/WK),Offshore,BNT285,87.90
+Beneteau 29,Offshore,BNT29,87.70
+Beneteau 305,Offshore,BNT305,81.00
+Beneteau 310,Offshore,BNT310,77.50
+Beneteau 331,Offshore,BNT331,79.90
+Beneteau 337,Offshore,BNT337,76.70
+Beneteau 34,Offshore,BNT34,74.40
+Beneteau 345,Offshore,BNT345,77.50
+Beneteau 355,Offshore,BNT355,76.20
+Beneteau 36,Offshore,BNT36,76.90
+Beneteau 36.7,Offshore,BNT367,68.00
+Beneteau 38,Offshore,BNT38,77.20
+Beneteau 38 Sh.Draft,Offshore,BNT38L,78.40
+Beneteau 385,Offshore,BNT385,72.80
+Beneteau 40 First,Offshore,BNT40,64.00
+Beneteau 40.7,Offshore,BNT407,63.30
+Beneteau 405,Offshore,BNT405,72.10
+Beneteau 42,Offshore,BNT42,68.80
+Beneteau 427,Offshore,BNT427,70.90
+Beneteau 44.7,Offshore,BNT447,59.40
+Beneteau Class 10,Offshore,BNTC10,71.80
+Beneteau Class 8,Offshore,BNTC8,79.50
+Beneteau Figaro,Offshore,BNTFG,72.70
+Beneteau Oceanis 300,Offshore,BNT300,93.00
+Beneteau R/C 30,Offshore,BNT30,85.00
+Blue Jacket 23,Offshore,BLJ23,96.20
+Bluenose,Offshore,BLU,98.20
+Bluesail 24,Offshore,BLS24,77.20
+Bombardier 7.6,Offshore,BOM7.6,78.30
+Bristol 22,Offshore,BST22,101.30
+Bristol 24,Offshore,BST24,96.80
+Bristol 27,Offshore,BST27,90.70
+Bristol 29,Offshore,BST29,91.00
+Bristol 32,Offshore,BST32,91.90
+Bristol 35,Offshore,BST35,89.30
+Buccaneer 200,Offshore,BCN20,105.20
+Buccaneer 220,Offshore,BCN22,101.90
+Buccaneer 240 (W/E),Offshore,BCN24,104.30
+Buccaneer 25 & 250,Offshore,BCN25,92.90
+Buccaneer 295,Offshore,BCN29,87.20
+C&C 110,Offshore,CC-110,68.10
+C&C 24,Offshore,CC-24,92.50
+C&C 25,Offshore,CC-25,91.50
+C&C 25-2,Offshore,CC-252,90.50
+C&C 27,Offshore,CC-27,90.30
+C&C 27-2,Offshore,CC-272,89.30
+C&C 27-3,Offshore,CC-273,86.30
+C&C 27-5,Offshore,CC-275,93.50
+C&C 29,Offshore,CC-29,83.80
+C&C 29 Mk II,Offshore,CC-292,84.00
+C&C 30,Offshore,CC-30,84.50
+C&C 32,Offshore,CC-32,80.90
+C&C 33,Offshore,CC-33,78.10
+C&C 33-2,Offshore,CC-332,76.50
+C&C 34,Offshore,CC-34,77.90
+C&C 34R & 36R,Offshore,CC-34R,70.80
+C&C 35,Offshore,CC-35,75.50
+C&C 35-2,Offshore,CC-352,75.50
+C&C 35-3,Offshore,CC-353,74.00
+C&C 36,Offshore,CC-36,76.60
+C&C 36 Invader,Offshore,CC-36I,84.00
+C&C 37,Offshore,CC-37,73.60
+C&C 37+,Offshore,CC-372,66.60
+C&C 38-1,Offshore,CC-38,74.30
+C&C 39,Offshore,CC-39,71.30
+C&C 40-2,Offshore,CC-402,71.90
+C&C 40-2 Tall Mast,Offshore,CC-402H,71.10
+C&C 41,Offshore,CC-41,67.80
+C&C 44,Offshore,CC-44,66.60
+C&C 99,Offshore,CC-99,72.10
+Cal 20,Offshore,CAL20,98.80
+Cal 21,Offshore,CAL21,98.00
+Cal 22 (FK),Offshore,CAL22,86.30
+Cal 24,Offshore,CAL24,93.60
+Cal 24 (DK 24'4" LOA),Offshore,CAL24L,89.60
+Cal 24 (Swing Keel),Offshore,CAL24W,95.80
+Cal 24-2,Offshore,CAL242,89.30
+Cal 24-3,Offshore,CAL243,85.10
+Cal 24-4,Offshore,CAL244,84.90
+Cal 25,Offshore,CAL25,91.20
+Cal 25 II,Offshore,CAL252,93.00
+Cal 27,Offshore,CAL27,89.80
+Cal 27-2,Offshore,CAL272,89.10
+Cal 27-3,Offshore,CAL273,87.00
+Cal 28,Offshore,CAL28,90.10
+Cal 28-2,Offshore,CAL282,85.80
+Cal 29 & 2-29,Offshore,CAL29,84.20
+Cal 30,Offshore,CAL30,86.90
+Cal 30-2,Offshore,CAL302,84.90
+Cal 30-3,Offshore,CAL303,82.50
+Cal 33,Offshore,CAL33,80.50
+Cal 34,Offshore,CAL34,82.80
+Cal 36,Offshore,CAL36,82.80
+Cal 39,Offshore,CAL39,75.20
+Cal 40,Offshore,CAL40,74.20
+Cal 9.2 & 9.2R,Offshore,CAL9.2,84.20
+Cal T/2 (1/2 Ton),Offshore,CAL1/2,84.60
+Cal T/4 (1/4 Ton),Offshore,CAL1/4,95.80
+California 32,Offshore,CAF32,77.10
+Cape Cod Marlin,Offshore,CCMRL,95.10
+Cape Dory 22,Offshore,CD-22,100.80
+Cape Dory 25,Offshore,CD-25,98.00
+Cape Dory 27,Offshore,CD-27,93.80
+Cape Dory 270 (CB),Offshore,CD-27B,90.80
+Cape Dory 28,Offshore,CD-28,90.60
+Cape Fear 38,Offshore,CPF38,69.60
+Cape Fear 38,Offshore,CPF38,69.60
+Capo 26,Offshore,CPO26,76.10
+Capo 26,Offshore,CPO26,76.10
+Capri 18 (Catalina WK),Offshore,CAP18,100.70
+Capri 22 (Cat. FK/SK/WK),Offshore,CAP22,90.80
+Capri 22 (Cat. Tall Rig),Offshore,CAP22H,88.90
+Capri 25 (Catalina),Offshore,CAP25,84.20
+Capri 26 (Catalina),Offshore,CAP26,92.20
+Capri 30 (Cat. FK/WK),Offshore,CAP30,78.10
+Capri 30 (Cat. Tall Rig),Offshore,CAP30H,73.30
+Capri 37,Offshore,CAP37,67.20
+Captiva 240,Offshore,CPT24,92.00
+Captiva 240,Offshore,CPT24,92.00
+Captiva 35,Offshore,CPT35,71.30
+Captiva 35,Offshore,CPT35,71.30
+Carrera 280,Offshore,CRR28,71.70
+Carrera 280,Offshore,CRR28,71.70
+Carrera 290,Offshore,CRR29,73.00
+Carrera 290,Offshore,CRR29,73.00
+Carter 33,Offshore,CAR33,87.70
+Cascade 29,Offshore,CSD29,94.50
+Cascade 29,Offshore,CSD29,94.50
+Cascade 36,Offshore,CSD36,82.50
+Cascade 36,Offshore,CSD36,82.50
+Catalina 22 (FK No Spi),Offshore,CAT22F,97.10
+Catalina 22 (SK/WK N/Spi),Offshore,CAT22,96.30
+Catalina 22 (SK/WK w/Spi),Offshore,CAT222,94.70
+Catalina 25 FK/SK TM Spi,Offshore,CAT25H,90.10
+Catalina 25 FK/SK/WK Spi,Offshore,CAT25,93.90
+Catalina 25 WK Tall Mast Spi,Offshore,CAT25LH,95.10
+Catalina 250 spi,Offshore,CAT250,95.60
+Catalina 27 & 270 FK/WK Sp,Offshore,CAT27,87.40
+Catalina 27 Tall Mast Spi,Offshore,CAT27H,86.40
+Catalina 27 TM Fix Prop Spi,Offshore,CAT27H2,90.80
+Catalina 28,Offshore,CAT28,92.60
+Catalina 30 (FK Tall Mast),Offshore,CAT30H,84.00
+Catalina 30 (FK),Offshore,CAT30,85.80
+Catalina 310,Offshore,CAT310,88.00
+Catalina 320 (FK/WK),Offshore,CAT320,80.90
+Catalina 34,Offshore,CAT34,84.80
+Catalina 36,Offshore,CAT36,83.00
+Catalina 38,Offshore,CAT38,77.80
+Catalina 42,Offshore,CAT42,73.70
+CF 27,Offshore,CF-27,75.00
+CF 33,Offshore,CF-33,73.30
+Challenger 24 (Col.),Offshore,CHL24,96.50
+Chaser 29,Offshore,CHS29,80.80
+Cheetah 30,Offshore,CHE30,70.40
+Christmas Cove 21,Offshore,CCV21,94.00
+Chrysler 20,Offshore,CRL20,100.70
+Chrysler 20,Offshore,CRL20,100.70
+Chrysler 22 (Fin Keel),Offshore,CRL22F,99.50
+Chrysler 22 (Fin Keel),Offshore,CRL22F,99.50
+Chrysler 22 (Sw. Keel),Offshore,CRL22,100.50
+Chrysler 22 (Sw. Keel),Offshore,CRL22,100.50
+Chrysler 26,Offshore,CRL26,95.50
+Chrysler 26,Offshore,CRL26,95.50
+Chrysler 26 (Fin Keel),Offshore,CRL26F,94.30
+Chrysler 26 (Fin Keel),Offshore,CRL26F,94.30
+Classic 31,Offshore,CLA31,92.90
+Clipper 21,Offshore,CLP21,107.80
+Clipper 23 (Sw. Keel),Offshore,CLP23,99.80
+Clipper 23 (Twin Keel),Offshore,CLP232,100.40
+Clipper 24,Offshore,CLP24,93.50
+Clipper 24 (Cruis. Ver.),Offshore,CLP242,96.30
+Clipper 26,Offshore,CLP26,99.80
+Clipper 26 (Fin Keel),Offshore,CLP26F,96.50
+Clipper 30,Offshore,CLP30,101.40
+Clipper 32,Offshore,CLP32,95.80
+Coaster 30 (Pearson),Offshore,CST30,99.10
+Coaster 30 (Pearson),Offshore,CST30,99.10
+Cobra 22,Offshore,COB22,93.50
+Colgate 26,Offshore,CLG26,82.50
+Columbia 22,Offshore,COL22,98.90
+Columbia 23,Offshore,COL23,101.20
+Columbia 26,Offshore,COL26,98.10
+Columbia 26 Mk 2,Offshore,COL262,90.30
+Columbia 28,Offshore,COL28,91.30
+Columbia 29,Offshore,COL29,91.60
+Columbia 30,Offshore,COL30,87.70
+Columbia 36,Offshore,COL36,81.20
+Columbia 39,Offshore,COL39,78.40
+Columbia 50,Offshore,COL50,71.60
+Columbia 8.7,Offshore,COL8.7,88.50
+Contrast 39,Offshore,CTS39,65.30
+Cook 37,Offshore,COO37,72.60
+Coronado 23,Offshore,COR23,102.10
+Coronado 25,Offshore,COR25,94.10
+Coronado 27,Offshore,COR27,94.80
+Coronado 27 (CB Ver.),Offshore,COR27B,95.50
+Coronado 30,Offshore,COR30,88.50
+Corsaire 18,Offshore,CSR18,102.00
+Creekmore 22,Offshore,CRK22,89.30
+Creekmore 7 Meter,Offshore,CRK7.0,90.00
+CS 22 (CDN Sailcraft),Offshore,CS-22,94.00
+CS 27 (CDN Sailcraft),Offshore,CS-27,89.00
+CS 27-3,Offshore,CS-273,88.40
+CS 30,Offshore,CS-30,80.40
+CS 33,Offshore,CS-33,81.80
+CS 33 (Sh. Draft),Offshore,CS-33L,83.00
+CS 40,Offshore,CS-40,72.30
+Dana 24,Offshore,DAN24,97.30
+Davidson 26,Offshore,DVD26,86.20
+Davidson 44,Offshore,DVD44,65.50
+Dehler 22,Offshore,DLR22,98.30
+Dehler 25,Offshore,DLR25,94.30
+Dehler 34,Offshore,DLR34,77.20
+Dobroth 38,Offshore,DOB38,68.40
+Dobroth 42,Offshore,DOB42,62.80
+Dobroth 45,Offshore,DOB45,65.40
+Dolphin 24 (Yankee),Offshore,DLP24,99.10
+Donovan 27,Offshore,DON27,72.10
+Douglas 32,Offshore,DGL32,98.10
+Dufour 27,Offshore,DFR27,93.80
+Dyna Flyer 40,Offshore,DFL40,53.80
+Eastwind 25,Offshore,ESW25,93.00
+Electra (Pearson),Offshore,ELC22,97.00
+Elite 30S,Offshore,ELT302,82.20
+Elliott 770,Offshore,ELL770,73.20
+Elor 6.5 (FK),Offshore,ELO6.5,94.80
+Endeavor 26,Offshore,EDV26,90.50
+Endeavor 32,Offshore,EDV32,87.10
+Endeavor 37,Offshore,EDV37,88.50
+Ensenada 20,Offshore,ENS20,102.00
+Ericson 23 (CB Ver.),Offshore,ERC23B,94.40
+Ericson 23 (FK),Offshore,ERC23,91.60
+Ericson 23 (Pre-1973),Offshore,ERC232,94.30
+Ericson 25,Offshore,ERC25,96.20
+Ericson 25 (CB Ver.),Offshore,ERC25B,97.20
+Ericson 25+,Offshore,ERC252,91.00
+Ericson 26,Offshore,ERC26,93.90
+Ericson 27,Offshore,ERC27,94.70
+Ericson 28+,Offshore,ERC28,87.20
+Ericson 29,Offshore,ERC29,85.70
+Ericson 29 (Tall Mast),Offshore,ERC29H,89.00
+Ericson 30-2 (FK),Offshore,ERC302,82.60
+Ericson 30+ (Sh.Draft),Offshore,ERC30,88.20
+Ericson 32,Offshore,ERC32,88.00
+Ericson 32-2,Offshore,ERC322,86.00
+Ericson 32-3,Offshore,ERC323,85.6
+Ericson 33,Offshore,ERC33,85.30
+Ericson 34T,Offshore,ERC3/4,80.00
+Ericson 35,Offshore,ERC35,84.80
+Ericson 38,Offshore,ERC38,76.30
+Ericson 39,Offshore,ERC39,76.40
+Evelyn 25,Offshore,EVL25,79.00
+Evelyn 26,Offshore,EVL26,82.70
+Evelyn 32,Offshore,EVL32,74.40
+Evelyn 32-2,Offshore,EVL322,70.40
+Evelyn 42,Offshore,EVL42,62.80
+Evolution,Offshore,EVO,66.00
+Excalibur 26,Offshore,EXC26,93.20
+Express 27,Offshore,EXS27,78.10
+Express 30,Offshore,EXS30,79.40
+Express 34,Offshore,EXS34,70.40
+Express 37,Offshore,EXS37,68.30
+F 3,Offshore,F-3,72.60
+Farr 30,Offshore,FAR30,78.00
+Farr 31,Offshore,FAR31,68.80
+Farr 36,Offshore,FAR36,66.10
+Farr 37,Offshore,FAR37,67.60
+Farr 38,Offshore,FAR38,71.40
+Farr 39,Offshore,FAR39,59.80
+Farr 39 ML T.M.,Offshore,FAR392H,57.50
+Farr 395,Offshore,FAR395,61.20
+Farr 40,Offshore,FAR40,57.30
+Farr 44,Offshore,FAR44,60.30
+Farr 49,Offshore,FAR49,51.90
+Farr 727,Offshore,FAR727,85.10
+Finn Gulf 38,Offshore,FNG38,76.60
+Fishers Island 31 (7/8),Offshore,FIL31,78.0
+Flicka 20 (24'),Offshore,FLK20,104.00
+Flying Buffalo,Offshore,FBUF,94.5
+Folkboat (Nordic),Offshore,FKB25,103.20
+Freedom 21 (Cat DK),Offshore,FDM21C,94.40
+Freedom 21 (Cat SD),Offshore,FDM212,98.50
+Freedom 21 (Sloop DK),Offshore,FDM21,94.20
+Freedom 25 (Sloop),Offshore,FDM25,89.60
+Freedom 29,Offshore,FDM29,85.50
+Freedom 30,Offshore,FDM30,83.30
+Freedom 32,Offshore,FDM32,88.00
+Frers 30,Offshore,FRS30,78.40
+Frers 33,Offshore,FRS33,72.50
+Frers 36,Offshore,FRS36,68.70
+Frers 40,Offshore,FRS40,63.60
+Frers 41,Offshore,FRS41,68.30
+Fun 23,Offshore,FUN23,84.40
+Gale Force 20,Offshore,GAF20,110.0
+Garrett 40 C,Offshore,GAR40C,66.80
+Gilbert 25,Offshore,GBT25,79.60
+Glen-L 21,Offshore,GNL21,105.30
+Gloucester 22 (CB),Offshore,GLS22,94.20
+Gloucester 23,Offshore,GLS23,102.5
+Goldeneye,Offshore,GOL18,102.50
+Goman Express 30,Offshore,GOX30,79.00
+Goman Express 35 S.D.,Offshore,GOX35,72.40
+Grampian 23,Offshore,GRP23,100.60
+Grampian 26,Offshore,GRP26,91.50
+Grampian 30,Offshore,GRP30,90.30
+Grand Soleil 39,Offshore,GRS39,76.70
+Gulf Coast 18,Offshore,GFC18,103.60
+Gulf Coast 20,Offshore,GFC20,97.60
+Gulf Coast 21,Offshore,GFC21,106.60
+Gulf Coast 22,Offshore,GFC22,99.00
+Gulf Coast 23,Offshore,GFC23,96.80
+H-28 Ketch,Offshore,H-28,K
+Harbor 20,Offshore,HRB20,92.00
+Harmony 22,Offshore,HMY22,84.90
+Harpoon 6.2,Offshore,HPN6.2,95.50
+Helms 22 (Shoal Draft),Offshore,HLM22,102.80
+Helms 24,Offshore,HLM24,94.20
+Helms 25,Offshore,HLM25,96.50
+Helms 27,Offshore,HLM27,86.50
+Helms 30,Offshore,HLM30,84.70
+Henderson 30,Offshore,HND30,61.60
+Hereshoff Cat Ketch 31',Offshore,H31C,K
+Herman Cat,Offshore,HRM17,107.70
+Herreshoff America 18',Offshore,HSFAM,116.90
+Herreshoff Eagle 22',Offshore,HSFEG,109.30
+Hinterhoeller 25,Offshore,HTH25,92.40
+Hinterhoeller 30,Offshore,HTH30,85.00
+Hobie 33,Offshore,HOB33,72.10
+Holder 20,Offshore,HLR20,85.80
+Hotfoot 20,Offshore,HOT20,82.80
+Hotfoot 27,Offshore,HOT27,79.00
+Hughes 25,Offshore,HUG25,90.70
+Hughes 26,Offshore,HUG26,95.20
+Humboldt Bay 30,Offshore,HB-30,71.00
+Hunter 18.5 (WK MH rig),Offshore,HTR185M,98.0
+Hunter 18.5 (WK),Offshore,HTR185,99.20
+Hunter 19 (100%G N/Spi),Offshore,HTR19,99.40
+Hunter 212,Offshore,HTR212,93.00
+Hunter 216,Offshore,HTR216,91.00
+Hunter 22 (FK),Offshore,HTR22F,100.50
+Hunter 22 (Swing Keel),Offshore,HTR22,96.50
+Hunter 23 (Wing Keel),Offshore,HTR23,96.20
+Hunter 23.5 (110%G N/Sp),Offshore,HTR235,94.20
+Hunter 240,Offshore,HTR24,95.10
+Hunter 25 (Deep Keel),Offshore,HTR25,92.30
+Hunter 25 (Shoal Draft),Offshore,HTR25L,93.20
+Hunter 25.5,Offshore,HTR255,90.90
+Hunter 25.5 (Sh. Draft),Offshore,HTR255L,92.00
+Hunter 26 (100%Gen N/Sp),Offshore,HTR26,92.40
+Hunter 26.5 (WK),Offshore,HTR265,86.20
+Hunter 260,Offshore,HTR260,91.20
+Hunter 27 26'7" 7/8 (WK),Offshore,HTR27N,91.20
+Hunter 27 27'2" (DK),Offshore,HTR27,93.60
+Hunter 27 27'2" (SD),Offshore,HTR27L,94.10
+Hunter 27-2,Offshore,HTR272,95.90
+Hunter 28,Offshore,HTR28,87.00
+Hunter 28.5,Offshore,HTR285,84.60
+Hunter 28.5 (Sh. Draft),Offshore,HTR285L,86.10
+Hunter 280,Offshore,HTR280,89.00
+Hunter 29.5,Offshore,HTR295,86.00
+Hunter 30,Offshore,HTR30,90.10
+Hunter 31 (Fin Keel),Offshore,HTR31F,84.50
+Hunter 31 (Shoal Draft),Offshore,HTR31,85.20
+Hunter 33,Offshore,HTR33,84.60
+Hunter 33 (Shoal Draft),Offshore,HTR33L,85.90
+Hunter 33.5,Offshore,HTR335,85.00
+Hunter 34,Offshore,HTR34,82.00
+Hunter 34 (Sh. Draft),Offshore,HTR34L,83.70
+Hunter 34 (Short Mast),Offshore,HTR34SM,85.20
+Hunter 34.5,Offshore,HTR345,83.0
+Hunter 35 Legend,Offshore,HTR35,81.40
+Hunter 35.5,Offshore,HTR355,76.80
+Hunter 36,Offshore,HTR36,80.40
+Hunter 37,Offshore,HTR37,73.70
+Hunter 375,Offshore,HTR375,69.90
+Hunter 40,Offshore,HTR40,71.30
+Hunter H33,Offshore,HTR33H,69.80
+ILC 40,Offshore,ILC40,56.40
+Impulse 21 FK ODR Jib&Sp,Offshore,IPS21,84.20
+Impulse 26 FK ODR Jib&Sp,Offshore,IPS26,76.40
+IMX-38,Offshore,IMX38,64.20
+IMX-40,Offshore,IMX40,61.80
+Irwin 10/4 (25'),Offshore,IRW/4,94.00
+Irwin 21 Freespirit,Offshore,IRW21,97.50
+Irwin 23,Offshore,IRW23,96.80
+Irwin 24,Offshore,IRW24,94.30
+Irwin 25,Offshore,IRW25,93.30
+Irwin 27,Offshore,IRW27,93.90
+Irwin 28,Offshore,IRW28,89.80
+Irwin 284,Offshore,IRW284,99.7
+Irwin 33,Offshore,IRW33,82.30
+Irwin 34 Citation,Offshore,IRW34,82.60
+Irwin 34 Citation (SD),Offshore,IRW34L,81.90
+Islander 24/Isl.Bahama24,Offshore,ISL24,96.80
+Islander 23,Offshore,ISL23,97.40
+Islander 28,Offshore,ISL28,88.80
+Islander 28 Sh.Mast,Offshore,ISL28SM,89.6
+Islander 30,Offshore,ISL30,90.10
+Islander 30-2,Offshore,ISL302,84.50
+Islander 36,Offshore,ISL36,82.20
+Islander 37,Offshore,ISL37,80.90
+Islander Bahama 30,Offshore,ISLB30,86.10
+Islands 20,Offshore,ISD20,99.00
+J/100,Offshore,J-100,68.00
+J/105 ODR,Offshore,J-105,70.50
+J/109,Offshore,J-109,67.20
+J/120,Offshore,J-120,62.80
+J/124,Offshore,J-124,62.20
+J/125,Offshore,J-125,54.50
+J/130,Offshore,J-130,59.40
+J/133,Offshore,J-133,58.60
+J/145,Offshore,J-145,51.50
+J/22 (Class Jib),Offshore,J-22,82.70
+J/22 (Open),Offshore,J-222,81.70
+J/24 (Int.),Offshore,J-24,80.80
+J/27,Offshore,J-27,77.10
+J/28,Offshore,J-28,81.90
+J/29,Offshore,J-29,72.00
+J/30,Offshore,J-30,76.90
+J/33,Offshore,J-33,70.20
+J/34,Offshore,J-34,74.30
+J/35,Offshore,J-35,67.20
+J/36,Offshore,J-36,69.20
+J/41,Offshore,J-41,66.90
+J/44,Offshore,J-44,60.90
+J/80 ODR,Offshore,J-80,74.10
+J/90,Offshore,J-90,62.90
+J/92 ODR,Offshore,J-92,72.00
+Jeanneau 24 Tonic,Offshore,JNO24T,90.90
+Jeanneau 37 Sun Fast,Offshore,JNO37,71.90
+Jeanneau 40,Offshore,JNO40,62.00
+Jonmeri 40,Offshore,JON40,72.50
+Kelly 28,Offshore,KLY28,83.70
+Kelly Mini Ton,Offshore,KLYM/T,86.70
+Kings Cruiser 29,Offshore,KNC29,95.00
+Kirby 23,Offshore,KRB23,85.60
+Kirby 25,Offshore,KRB25,83.00
+Kirby 26 (1/4 Ton),Offshore,KRB1/4,87.50
+Kirby 30,Offshore,KRB30,73.80
+Kittiwake 23,Offshore,KTW23,100.60
+Kittiwake 24,Offshore,KTW24,105.50
+Kiwi 21 (Mini Ton),Offshore,KWI21,90.80
+Kiwi 24,Offshore,KWI24,85.60
+Kiwi 35,Offshore,KWI35,64.00
+Knarr Senior,Offshore,KNRSR,90.10
+Knickerbocker,Offshore,KNB,86.30
+Laguna 22 (SD),Offshore,LGA22,102.70
+Laguna 24 (SD),Offshore,LGA24,98.50
+Laguna 26 (SD),Offshore,LGA26,93.90
+Lancer 25,Offshore,LNC25,98.40
+Lancer 28 (SD),Offshore,LNC28,97.50
+Laser 28,Offshore,LAS28,78.50
+Lindenberg 22,Offshore,LDB22,89.30
+Lindenberg 26,Offshore,LDB26,84.80
+Lindenberg 28,Offshore,LDB28,73.90
+LS 10,Offshore,LS-10,76.10
+Lufkin 26,Offshore,LUF26,99.00
+Luger 26 Tradewinds,Offshore,LGR26,94.70
+Luger 26 Tradewinds (MH),Offshore,LGR26M,86.80
+MacGregor 21,Offshore,MCG21,100.00
+MacGregor 22,Offshore,MCG22,98.30
+MacGregor 25,Offshore,MCG25,96.00
+MacGregor 25 (MH Rig),Offshore,MCG25M,95.40
+MacGregor 26 DB (MCG26),Offshore,MCG26D,92.60
+MacGregor 26 SK (MCG26W),Offshore,MCG26S,94.30
+MacGregor 26M DB,Offshore,MCG26M,96.0
+MacGregor 26X SK,Offshore,MCG26X,100.00
+Magic 25 (Hobie),Offshore,MAG25,65.40
+Mariah 27,Offshore,MAH27,76.70
+Mariner 19,Offshore,MAR19,101.80
+Mariner 19 (CB Ver.),Offshore,MAR19B,102.10
+Marlin,Offshore,MRL23,106.50
+Marshall 22 Cat,Offshore,MRS22,96.60
+Martin 24-2,Offshore,MTN242,78.10
+Maxi 77,Offshore,MXI77,95.30
+Medalist 33,Offshore,MED33,89.80
+Mega 30 C&C (FK & OD),Offshore,MEG30,80.10
+Melges 24 ODR,Offshore,MLG24,68.90
+Melges 30 ODR,Offshore,MLG30,62.80
+Melges 32,Offshore,MLG32,60.20
+Meridian,Offshore,MRD26,104.80
+Merit 22 (Ret. Keel),Offshore,MRT22,92.70
+Merit 23 (Wing Keel),Offshore,MRT23,89.10
+Merit 25,Offshore,MRT25,82.90
+Mid-Ship 25,Offshore,MID25,100.10
+Mirage 236,Offshore,MIR236,85.10
+Mirage 24,Offshore,MIR24,93.00
+Mirage 24 Sh.Mast,Offshore,MIR242,95.90
+Mirage 25,Offshore,MIR25,88.50
+Mirage 26,Offshore,MIR26,94.20
+Mirage 27,Offshore,MIR27,92.80
+Mirage 30,Offshore,MIR30,80.10
+Mirage 338,Offshore,MIR338,70.30
+Mirage 5.5 (Sw. Keel),Offshore,MIR5.5,94.70
+Montego 19 (Sw.Keel),Offshore,MTG19,104.70
+Montego 20,Offshore,MTG20,100.20
+Montego 25,Offshore,MTG25,92.90
+Montego 25 (Sh. Draft),Offshore,MTG25L,90.60
+Montgomery 17,Offshore,MON17,104.00
+Montgomery 17 (TM),Offshore,MON17H,100.70
+Montgomery 17 Fl.Deck,Offshore,MON172,95.80
+Montgomery 23,Offshore,MON23,94.80
+Moore 24,Offshore,MRE24,81.50
+Morgan 2-30,Offshore,MOR302,83.10
+Morgan 22,Offshore,MOR22,96.80
+Morgan 24 & 25,Offshore,MOR25,91.00
+Morgan 27,Offshore,MOR27,82.00
+Morgan 28,Offshore,MOR28,90.20
+Morgan 30,Offshore,MOR30,86.80
+Morgan 30/30,Offshore,MOR3030,86.70
+Morgan 34,Offshore,MOR34,86.60
+Morgan 35,Offshore,MOR35,82.30
+Morgan 36,Offshore,MOR36,76.70
+Morgan 36-4/6,Offshore,MOR364,74.00
+Morgan 366 (CB),Offshore,MOR366,72.40
+Morgan Out Island 33,Offshore,MOI33,88.10
+Morgan Out Island 36,Offshore,MOI36,82.0
+Morris 28 Linda,Offshore,MIS28,97.3
+Morris 30 Annie,Offshore,MIS30,97.0
+MPL 22 (FK MH),Offshore,MPL22M,104.00
+MPL 22 (SK),Offshore,MPL22,103.10
+Mumm 30,Offshore,MUM30,63.50
+Mumm 36,Offshore,MUM36,61.50
+Mustang,Offshore,MUS22,99.90
+MX 20 Sport,Offshore,MX-20,85.40
+Mystic Catboat,Offshore,MYS20,111.00
+Navy 44,Offshore,NAV44,70.40
+Nelson/Marek 30,Offshore,NM-30,67.70
+Nelson/Marek 39,Offshore,NM-39,57.50
+Nelson/Marek 40,Offshore,NM-40,61.60
+Nelson/Marek 41,Offshore,NM-41,66.20
+Nelson/Marek 43,Offshore,NM-43,61.00
+Nelson/Marek 44,Offshore,NM-44,63.90
+Nelson/Marek 45,Offshore,NM-45,57.60
+Neptune 24 (FK TM),Offshore,NEP24H,94.90
+Neptune 24 (FK),Offshore,NEP24,96.60
+New Horizon 35,Offshore,NH-35,92.00
+New York 30,Offshore,NY-30,84.70
+New York 36,Offshore,NY-36,70.10
+New York 40,Offshore,NY-40,71.60
+Newport 17 (L-N),Offshore,NPT17,114.40
+Newport 20,Offshore,NPT20,97.80
+Newport 21,Offshore,NPT21,100.50
+Newport 27,Offshore,NPT27,89.70
+Newport 28,Offshore,NPT28,91.20
+Newport 30,Offshore,NPT30,89.60
+Newport 30 Mk III,Offshore,NPT303,85.50
+Newport 33,Offshore,NPT33,83.10
+Newport 41,Offshore,NPT41,72.20
+Niagara 26,Offshore,NGR26,85.60
+Nixie (Rhodes),Offshore,NIXRH,93.00
+Nomad (Westerly),Offshore,NMD23,105.80
+Nonsuch 26,Offshore,NON26,94.40
+Nonsuch 30,Offshore,NON30,84.50
+Nor'Sea 27,Offshore,NSE27,93.50
+North American 23 (SD),Offshore,NAM23,99.00
+North Star 1000,Offshore,NST1000,87.40
+North Star 500 (1/4 T),Offshore,NST1/4,92.30
+North Star Farr 727,Offshore,NST727,89.80
+North Wind 29,Offshore,NWD29,88.40
+Northern 1/4 Ton,Offshore,NTH1/4,94.30
+Northern 25,Offshore,NTH25,92.50
+O'Day 19 (CB),Offshore,ODY19,95.20
+O'Day 192,Offshore,ODY192,98.30
+O'Day 20,Offshore,ODY20,101.70
+O'Day 22 (CB),Offshore,ODY22,104.40
+O'Day 22 (SD),Offshore,ODY22L,102.60
+O'Day 222,Offshore,ODY222,98.30
+O'Day 23 (Deck Step),Offshore,ODY232,98.60
+O'Day 23 (Keel Step),Offshore,ODY23,99.10
+O'Day 24,Offshore,ODY24,95.80
+O'Day 240,Offshore,ODY240,96.90
+O'Day 25 (CB Ver. spi),Offshore,ODY25B,95.40
+O'Day 25 spi,Offshore,ODY25,95.20
+O'Day 25 T.Mast FK spi,Offshore,ODY25H,92.80
+O'Day 26 (SD CB),Offshore,ODY26,93.80
+O'Day 27,Offshore,ODY27,91.10
+O'Day 272 (WK 130%Gen),Offshore,ODY272,93.60
+O'Day 28 & 285,Offshore,ODY28,89.90
+O'Day 30 (FK/CB),Offshore,ODY30,84.50
+O'Day 302,Offshore,ODY302,87.00
+O'Day 31 (SD),Offshore,ODY31,85.80
+O'Day 32-2 (WK),Offshore,ODY322,82.90
+O'Day 34,Offshore,ODY34,79.10
+O'Day 35 (FK/SD),Offshore,ODY35,77.30
+O'Day 39,Offshore,ODY39,75.90
+Ocean 352,Offshore,OCN352,80.0
+Ocean Breeze 18,Offshore,OCB18,105.70
+Ohlson 35,Offshore,OHL35,88.70
+Olson 25,Offshore,OLS25,81.10
+Olson 29,Offshore,OLS29,71.70
+Olson 30,Offshore,OLS30,74.50
+Olson 34,Offshore,OLS34,73.20
+Olson 40,Offshore,OLS40,64.20
+Olson 911S,Offshore,OLS911,75.00
+One Design 35,Offshore,1D35,60.10
+One Design 48,Offshore,1D48,50.20
+Ontario 28,Offshore,ONT28,89.0
+Outlaw,Offshore,OTL26,93.90
+Paceship 23 (PY23 CB),Offshore,PSC23,97.40
+Paceship 26 (PY26),Offshore,PSC26,90.60
+Pearson 10 Meter,Offshore,PSN10M,79.40
+Pearson 22,Offshore,PSN22,96.10
+Pearson 23,Offshore,PSN23,95.90
+Pearson 24,Offshore,PSN24,96.40
+Pearson 26,Offshore,PSN26,90.60
+Pearson 26 OD,Offshore,PSN262,90.10
+Pearson 27 (WK),Offshore,PSN27,96.70
+Pearson 28 (FK),Offshore,PSN28,89.90
+Pearson 30,Offshore,PSN30,83.80
+Pearson 303,Offshore,PSN303,91.80
+Pearson 31 (FK),Offshore,PSN31,82.90
+Pearson 32,Offshore,PSN32,83.30
+Pearson 323,Offshore,PSN323,85.70
+Pearson 33,Offshore,PSN33,85.30
+Pearson 332,Offshore,PSN332,84.60
+Pearson 34,Offshore,PSN34,79.00
+Pearson 35,Offshore,PSN35,85.60
+Pearson 36,Offshore,PSN36,82.50
+Pearson 37,Offshore,PSN37,73.30
+Pearson Flyer 30,Offshore,PSN302,77.60
+Peterson 25 (1/4 Ton),Offshore,PET1/4,85.60
+Peterson 34,Offshore,PET34,76.70
+Peterson 38,Offshore,PET38,68.40
+Peterson 42,Offshore,PET42,65.60
+Peterson 43,Offshore,PET43,73.10
+Pocket Rocket,Offshore,POC22,81.10
+Precision 165,Offshore,PRS165,103.90
+Precision 18,Offshore,PRS18,101.00
+Precision 21,Offshore,PRS21,99.00
+Precision 23,Offshore,PRS23,96.00
+Precision 27,Offshore,PRS27,90.10
+PT-22 (1/4 Ton),Offshore,PT-22,92.70
+Quest 33,Offshore,QST33,69.20
+R/P 50,Offshore,RP-50,48.90
+Ranger 20,Offshore,RNG20,98.80
+Ranger 22 (Mull 22),Offshore,RNG22,91.80
+Ranger 23,Offshore,RNG23,91.80
+Ranger 23 (1/4 Ton),Offshore,RNG1/4,93.20
+Ranger 23 (Tall Mast),Offshore,RNG23H,90.90
+Ranger 26,Offshore,RNG26,86.40
+Ranger 26 Short Mast,Offshore,RNG26SM,87.70
+Ranger 28,Offshore,RNG28,84.10
+Ranger 29,Offshore,RNG29,84.30
+Ranger 32,Offshore,RNG32,85.20
+Ranger 33,Offshore,RNG33,80.70
+Ranger 37,Offshore,RNG37,75.60
+Redwing 30,Offshore,RDW30,88.30
+Reinell 26,Offshore,RNL26,95.0
+Renegade (Pearson),Offshore,REN27,92.90
+Rhodes 22 (& Continental),Offshore,RDS22,100.20
+Rhodes 28,Offshore,RDS28,93.60
+Rodgers 22,Offshore,RDG22,89.60
+Rodgers 24,Offshore,RDG24,88.60
+Ross 650,Offshore,ROS650,82.40
+Ross 830,Offshore,ROS830,78.50
+Rozinante 28 Ketch,Offshore,ROZ28K,88.70
+S2 10.3,Offshore,S2-10.3,74.60
+S2 27,Offshore,S2-27,84.10
+S2 6.7,Offshore,S2-6.7,87.40
+S2 6.8,Offshore,S2-6.8,97.60
+S2 6.9,Offshore,S2-6.9,89.80
+S2 7.3,Offshore,S2-7.3,96.20
+S2 7.9 IB/OB,Offshore,S2-7.9,81.00
+S2 8.0 (FK),Offshore,S2-8.0F,93.10
+S2 8.0B (Sh. Draft),Offshore,S2-8.0,91.10
+S2 8.1,Offshore,S2-8.1,77.70
+S2 9.1,Offshore,S2-9.1,76.30
+S2 9.2,Offshore,S2-9.2,85.90
+Sabre 28,Offshore,SAB28,90.10
+Sabre 28-2,Offshore,SAB282,87.50
+Sabre 32 (Col. MH Rig),Offshore,SAB32M,85.70
+Sabre 32 (Columbia),Offshore,SAB32,87.40
+Sabre 34 Classic (W.K.),Offshore,SAB34N,81.30
+Sabre 36-2,Offshore,SAB362,76.10
+Sabre 38,Offshore,SAB38,78.00
+Sabre 38-2,Offshore,SAB382,72.50
+Sabre 40-2,Offshore,SAB402,70.50
+San Juan 21(FK ClassGen&Sp,Offshore,SJ-21F,95.60
+San Juan 21(SK ClassGen&Sp,Offshore,SJ-21,94.70
+San Juan 23 (CB Ver.),Offshore,SJ-23B,98.40
+San Juan 23 (FK),Offshore,SJ-23,95.70
+San Juan 24,Offshore,SJ-24,90.20
+San Juan 24 (Tall Mast),Offshore,SJ-24H,88.50
+San Juan 24M,Offshore,SJ-242,91.30
+San Juan 26,Offshore,SJ-26,94.20
+San Juan 28,Offshore,SJ-28,87.40
+San Juan 30,Offshore,SJ-30,83.30
+San Juan 33S,Offshore,SJ-33,76.00
+San Juan 34 (FK),Offshore,SJ-34,73.00
+San Juan 34 (SD),Offshore,SJ-34L,73.00
+San Juan 7.7,Offshore,SJ-7.7,89.20
+Sanderling 18 (Marshall),Offshore,SNDR,104.50
+Santa Cruz 27,Offshore,SCZ27,81.60
+Santana 2-28,Offshore,SNT282,84.60
+Santana 20 & 20W,Offshore,SNT20,90.10
+Santana 2023A (RK Jib NoSp),Offshore,SNT23A,93.70
+Santana 2023C,Offshore,SNT23C,91.20
+Santana 2023R,Offshore,SNT23R,83.90
+Santana 21,Offshore,SNT21,100.50
+Santana 21 (MH Rig),Offshore,SNT21M,100.00
+Santana 21R,Offshore,SNT21R,93.10
+Santana 22 w/Spi,Offshore,SNT22,90.90
+Santana 23 (Retr. Keel),Offshore,SNT23,84.00
+Santana 25 (1/4 Ton),Offshore,SNT1/4,91.50
+Santana 25 Mk II (1/4T),Offshore,SNT1-4,91.00
+Santana 26,Offshore,SNT26,89.80
+Santana 27,Offshore,SNT27,87.90
+Santana 28,Offshore,SNT28,86.60
+Santana 30,Offshore,SNT301,82.70
+Santana 30/30,Offshore,SNT30,77.40
+Santana 30/30 GP,Offshore,SNT30GP,73.10
+Santana 30/30 PC,Offshore,SNT30PC,79.40
+Santana 35 (FK),Offshore,SNT35,75.70
+Santana 525 (FK),Offshore,SNT525,85.00
+Scampi 30,Offshore,SCP30,85.10
+Scampi 30-3,Offshore,SCP303,85.60
+Scampi 30-4,Offshore,SCP304,85.70
+Schock 23 (WK),Offshore,SHC23,86.80
+Schock 35,Offshore,SHC35,66.60
+Schock 40,Offshore,SHC40,56.50
+Sea Crown 25,Offshore,SCN25,92.30
+Sea Quest 28,Offshore,SQU28,98.00
+Sea Sprite 22,Offshore,SSP22,99.10
+Seafarer 22,Offshore,SFR22,101.50
+Seafarer 23,Offshore,SFR23,95.60
+Seafarer 24,Offshore,SFR24,99.30
+Seafarer 26,Offshore,SFR26,96.00
+Seafarer 29,Offshore,SFR29,92.40
+Seafarer 30,Offshore,SFR30,85.50
+Seaward 22,Offshore,SRD22,101.40
+Seaward 25,Offshore,SRD25,99.60
+Seaward 26 RK 135% As.Spi,Offshore,SRD26,90.80
+Seawind 30,Offshore,SWD30,92.50
+Seidelmann 25 (FK),Offshore,SDL25,91.70
+Seidelmann 29.9,Offshore,SDL299,85.30
+Seidelmann 30,Offshore,SDL30,84.10
+Serendipity 43,Offshore,SDY43,67.10
+Shark 24,Offshore,SHK24,95.20
+Show 34,Offshore,SHO34,80.00
+Sigma 36-2,Offshore,SMA36,76.50
+Sirena 38,Offshore,SIR38,73.80
+Sirius 21/22,Offshore,SRS21,96.70
+Sirius 28 (FK),Offshore,SRS28,85.80
+Sirocco 19,Offshore,SRC19,100.00
+Sonoma 30,Offshore,SON30,73.00
+Sound Interclub,Offshore,SODIC,91.20
+South Coast 21,Offshore,SCS21,99.80
+South Coast 22,Offshore,SCS22,104.80
+South Coast 23,Offshore,SCS23,103.00
+South Coast 25,Offshore,SCS25,100.50
+Soverel 26,Offshore,SOV26,79.60
+Soverel 27,Offshore,SOV27,77.50
+Soverel 28,Offshore,SOV28,92.40
+Soverel 30,Offshore,SOV30,77.30
+Soverel 30 Tall Mast,Offshore,SOV30H,75.20
+Soverel 33,Offshore,SOV33,69.90
+Spacesailer 18 (US),Offshore,SS-18,104.0
+Spacesailer 20 (US),Offshore,SS-20,94.80
+Spindrift 22,Offshore,SPN22,98.20
+Spirit 23,Offshore,SRT23W,97.60
+Spirit 23K,Offshore,SRT23,96.80
+Spirit 28,Offshore,SRT28,87.00
+Spirit 28 (Sh.Draft),Offshore,SRT28L,95.40
+Spirit 6.5,Offshore,SRT6.5,95.50
+SR 25,Offshore,SR-25,75.0
+SR 27,Offshore,SR-27,72.00
+SR 33,Offshore,SR-33,66.40
+SR Max> (21'),Offshore,SR-21,81.70
+Star 30,Offshore,ST-30,74.90
+Starwind 19,Offshore,SWN19,106.20
+Starwind 22 (SK TMI22),Offshore,SWN22,100.90
+Starwind 223,Offshore,SWN223,99.00
+Starwind 27,Offshore,SWN27,83.80
+Stout Fella 27,Offshore,SFL27,95.60
+Stuart Knockabout (28'),Offshore,STK28,86.50
+Swan 40 & 409,Offshore,SWA40,74.40
+Swan 42,Offshore,SWA42,71.80
+Swan 441,Offshore,SWA44,68.80
+Swan 45,Offshore,SWA45,52.00
+Swan 48,Offshore,SWA48,65.00
+Swan 51,Offshore,SWA51,62.60
+Sydney 36,Offshore,SYD36,64.20
+Tanzer 22 (CB Ver.),Offshore,TNZ22B,96.00
+Tanzer 22 (FK),Offshore,TNZ22,94.90
+Tanzer 25,Offshore,TNZ25,84.00
+Tanzer 26 (FK),Offshore,TNZ26,91.90
+Tanzer 27,Offshore,TNZ27,93.90
+Tanzer 31,Offshore,TNZ31,83.10
+Tanzer 7.5 (FK),Offshore,TNZ7.5,95.10
+Tartan 27,Offshore,TAR27,95.30
+Tartan 28,Offshore,TAR28,84.60
+Tartan 30 & 30C,Offshore,TAR30,84.00
+Tartan 3000,Offshore,TAR3000,86.30
+Tartan 31,Offshore,TAR31,81.00
+Tartan 33,Offshore,TAR33,83.30
+Tartan 34,Offshore,TAR34,84.30
+Tartan 34 (Tall Mast),Offshore,TAR34H,84.30
+Tartan 35,Offshore,TAR35,73.10
+Tartan 3500,Offshore,TAR3500,74.20
+Tartan 40,Offshore,TAR40,72.5
+Tartan 41,Offshore,TAR41,72.20
+Tartan Ten,Offshore,TAR10,76.00
+Taylor 40,Offshore,TAY40,63.90
+Taylor 40-3,Offshore,TAY403,64.00
+Taylor 41,Offshore,TAY41,61.20
+Taylor 42,Offshore,TAY42,62.20
+Taylor 47,Offshore,TAY47,57.20
+Taylor 49,Offshore,TAY49,52.40
+Tempest 23 (O'Day),Offshore,TMP23,96.60
+Thomas 35,Offshore,THM35,67.40
+Thompson 30,Offshore,THP30,61.40
+Thompson 35,Offshore,THP35,53.60
+Thunderbird,Offshore,TBD26,89.30
+Tiffany Jane 34,Offshore,TFJ34,77.00
+TMI 26,Offshore,TMI26,92.40
+TMI 27 (Chrysler 27),Offshore,TMI27,92.50
+TMI 28,Offshore,TMI28,82.50
+Tripp 26 ODR,Offshore,TRP26,74.20
+Tripp 33,Offshore,TRP33,69.30
+Tripp 36,Offshore,TRP36,66.90
+Tripp 37,Offshore,TRP37,69.50
+Tripp 38 ML,Offshore,TRP382,64.30
+Tripp 40 MH,Offshore,TRP40,63.50
+Tripp 41 C,Offshore,TRP41,56.70
+Triton 28 (Pearson MH),Offshore,TRI28M,89.00
+Triton 28 (Pearson),Offshore,TRI28,97.80
+Trump 24 Schooner,Offshore,TRM24,100.0
+Typhoon (Alberg & CD),Offshore,TYP18,106.70
+Ultimate 20,Offshore,ULT20,79.90
+Ultimate 27,Offshore,ULT27,69.5
+Union 36,Offshore,UNN36,84.0
+US 21 (Ret.Keel),Offshore,US-21,90.60
+US 22 (Sw. Keel),Offshore,US-22,101.50
+US 25 (Fin Keel),Offshore,US-25,93.40
+US 27,Offshore,US-27,90.70
+US 30,Offshore,US-30,83.70
+US 33,Offshore,US-33,78.20
+Vega 27,Offshore,VEG27,95.00
+Venture 17,Offshore,VNT17,112.90
+Venture 21 (7/8 Rig),Offshore,VNT21J,102.10
+Venture 21 (MH Rig),Offshore,VNT21,99.40
+Venture 21 Mk II,Offshore,VNT212,101.20
+Venture 22 & 222,Offshore,VNT22,102.60
+Venture 23 Newport,Offshore,VNT23,105.80
+Venture 24 & 224,Offshore,VNT24,97.90
+Venture 25,Offshore,VNT25,99.00
+Venture 25 (MH Rig),Offshore,VNT25M,95.50
+Victoria Eighteen (SD),Offshore,VCT18,113.40
+Viking 22,Offshore,VKG22,94.80
+Viking 28,Offshore,VKG28,84.20
+Viking 28 IB,Offshore,VKG282,85.90
+Viking 33,Offshore,VKG33,76.50
+Viking 34,Offshore,VKG34,75.70
+Viper 640,Offshore,VIP640,70.40
+Viper 830,Offshore,VIP830,66.00
+Vivacity 20,Offshore,VIV20,103.90
+Vivacity 24 Twin Keel,Offshore,VIV24,101.80
+Wanderer (Pearson),Offshore,WAN30,90.70
+Watkins 23,Offshore,WAT23,99.60
+Watkins 27 (SD),Offshore,WAT27,94.30
+Watkins 29 (SD) Watkins 33 Seawolf,Offshore,WAT29,WAT
+Wauqliez 38,Offshore,WAU38,78.80
+Wavelength 24 (Schock),Offshore,WVL24,80.00
+Wavelength 30 (Schock),Offshore,WVL30,75.20
+Westerly 26,Offshore,WST26,101.50
+Whelan 27,Offshore,WHL27,70.50
+Wianno Sr.,Offshore,WNOSR,99.80
+Wilderness 21,Offshore,WLD21,91.10
+Windrose 18,Offshore,WNR18,106.00
+Windrose 22 (Retr.Keel),Offshore,WNR22,97.50
+Windrose 24,Offshore,WNR24,102.10
+Windrose 26 (Sw. Keel),Offshore,WNR26,94.40
+Windrose 5.5 (Retr.Keel),Offshore,WNR5.5,108.20
+Wylie Wabbit 24,Offshore,WLEWB,77.60
+X 102,Offshore,X102,74.90
+X 3/4 Ton,Offshore,X3/4,71.40
+X 3/4-2 Ton,Offshore,X3/4-2,69.50
+X 332,Offshore,X332,73.70
+X 95,Offshore,X95,81.00
+X 99,Offshore,X99,77.00
+Yamaha 26,Offshore,YMA26,85.00
+Yankee 30,Offshore,YKE30,85.50
+Young 88,Offshore,YUN88,72.30
+Div II (SA = < 6m2),Windsurfer,SB-2,92.5
+Div IIB (SA = 6-7m2),Windsurfer,SB-2B,89.7
+Div IIC (SA = > 7m2),Windsurfer,SB-2C,86.7
+Div IID (SA = > 8m2),Windsurfer,SB-2D,82.0
