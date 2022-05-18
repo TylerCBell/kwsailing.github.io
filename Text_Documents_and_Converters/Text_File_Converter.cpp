@@ -13,11 +13,11 @@ string Offshore(string line, int found);
 string Windsurfer(string line, int found);
 
 int main() {
-    fstream inFile;
     string line;
     string output;
     vector<string> input;
-
+    
+    fstream inFile;
     inFile.open("Raw_Handicap_Points_Table.txt",ios::in);
     if(inFile.is_open()) cout << "inFile opened successfully" << endl;
 
@@ -45,8 +45,6 @@ int main() {
 string Converter(string line) {
     int found;
     vector<string> boat = {",Centerboard", ",Keelboat", ",Multihull", ",Offshore", ",Windsurfer"};
-    
-    found = line.find(",Centerboard");
 
     for(size_t i = 0; i < boat.size(); i++) {
         found = line.find(boat[i]);
