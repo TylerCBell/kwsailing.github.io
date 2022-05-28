@@ -18,7 +18,7 @@ int main() {
     vector<string> input;
     
     fstream inFile;
-    inFile.open("Raw_Handicap_Points_Table.txt",ios::in);
+    inFile.open("../text_documents/raw_handicap_points_table.txt",ios::in);
     if(inFile.is_open()) cout << "inFile opened successfully" << endl;
 
     while(getline(inFile,line)) {
@@ -29,7 +29,7 @@ int main() {
     inFile.close();
 
     fstream outFile;
-    outFile.open("Handicap_Points_Table.txt",ios::out);
+    outFile.open("../text_documents/handicap_points_table.txt",ios::out);
     if(outFile.is_open()) cout << "outFile opened successfully" << endl;
 
     for(size_t i = 0; i < input.size(); i++) {
